@@ -37,7 +37,7 @@ body {
 
 .hero h1 {
   font-family: "pacifico", cursive;
-  font-size: 2.4rem;
+  font-size: 2rem;
 }
 
 .hero h4 {
@@ -463,8 +463,8 @@ footer li {
     font-size: 60%;
   }
   .simply-countdown > .simply-section {
-    padding: 45px;
-    margin: 3px;
+    padding: 40px;
+    margin: 2px;
   }
 
   .timeline li .timeline-image {
